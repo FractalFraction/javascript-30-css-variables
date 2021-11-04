@@ -1,0 +1,22 @@
+{
+  "name": "javascript-30-css-variables",
+  "version": "1.0.0",
+  "description": "The third day of the javascript30 challenge (https://javascript30.com/), experimenting with css variables and properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FractalFraction/javascript-30-css-variables.git"
+  },
+  "author": "Colin Gardiner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FractalFraction/javascript-30-css-variables/issues"
+  },
+  "homepage": "https://github.com/FractalFraction/javascript-30-css-variables#readme",
+  "dependencies": {
+    "serve": "^12.0.1"
+  }
+}
